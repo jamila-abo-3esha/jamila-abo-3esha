@@ -1,7 +1,5 @@
 # Hi there, I'm Jamila Abo Aesha 👋
 
-### 👩‍💻 Software Engineering Student | Frontend Developer
-
 ---
 
 ## 🎓 Education
