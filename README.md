@@ -35,7 +35,11 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jamila-abo-3esha&theme=vue" alt="Jamila's Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jamila-abo-3esha&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="Jamila's Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jamila-abo-3esha&theme=tokyonight" alt="Jamila's Streak" />
 </p>
 
 
