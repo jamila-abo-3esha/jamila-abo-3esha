@@ -1,7 +1,5 @@
 # Hi there, I'm Jamila Abo Aesha 👋
 
----
-
 ## 🎓 Education
 * **B.Sc. in Informatics & Software Engineering** | WPU *(Jan 2023 – Jan 2028)*
   * 🥇 Ranked 1st in cohort (GPA: 3.73 / 95.2%).
