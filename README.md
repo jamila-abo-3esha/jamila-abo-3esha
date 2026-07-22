@@ -38,7 +38,4 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jamila-abo-3esha&theme=vue" alt="Jamila's Streak" />
 </p>
 
----
 
-## 📬 Let's Connect
-📍 Syria | 📧 jamilaaboaesha@gmail.com | 🔗 [LinkedIn](https://linkedin.com/in/jamila-abo-aesha)
