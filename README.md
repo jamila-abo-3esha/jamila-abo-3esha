@@ -2,39 +2,26 @@
 
 ### 👩‍💻 Software Engineering Student | Frontend Developer
 
-Highly motivated 4th-year Software Engineering student ranked 1st in class with a 3.73 GPA (95.2% cumulative average). Demonstrated analytical problem-solving skills and algorithmic proficiency through qualification and participation in the Syrian Collegiate Programming Contest (SCPC). Specializes in modern frontend development using Vue.js (Vue 3/Composition API), JavaScript, and responsive design frameworks to architect scalable, user-centric web applications.
-
----
-
-## 📬 Connect with Me
-- 📍 **Location:** Syria
-- 📧 **Email:** jamilaaboaesha@gmail.com
-- 🔗 **LinkedIn:** [jamila-abo-aesha](https://linkedin.com/in/jamila-abo-aesha)
+🚀 **About Me:** 
+Software Engineering student at Al-Wataniya Private University (WPU). Passionate about building scalable, user-centric web applications using modern frontend tech, backed by strong algorithmic skills from the **SCPC** collegiate programming contest.
 
 ---
 
 ## 🎓 Education
-- **Bachelor of Science in Informatics and Software Engineering** | National Private University (WPU) *(Jan 2023 – Jan 2028)*
-  - Academic Excellence: 3.73/4.00 GPA (95.2% cumulative equivalent), Ranked 1st in cohort.
-  - Competitive Programming: Qualified for and competed in the Syrian Collegiate Programming Contest (SCPC).
-
----
-
-## 💼 Experience
-- **Graphic Designer** | TechTac Software Company *(Jan 2023 – Jan 2024)*
-  - Designed intuitive and visually compelling digital assets, ensuring alignment with brand identity and enhancing overall user engagement.
-  - Collaborated directly with cross-functional technical and marketing teams to deliver optimized creative assets for various web and digital platforms.
+* **B.Sc. in Informatics & Software Engineering** | WPU *(Jan 2023 – Jan 2028)*
+  * 🥇 Ranked 1st in cohort (GPA: 3.73 / 95.2%).
+  * 🏆 Competed in the Syrian Collegiate Programming Contest (SCPC).
 
 ---
 
 ## 📁 Highlighted Projects
-- **AWS Real Estate Platform:** Responsive property management web application. Architected a highly scalable frontend using HTML5, SCSS (Sass), and vanilla JavaScript to display dynamic property cards and complex asset features, with advanced search filters and custom logical data architectures via Bootstrap.
-- **Shopify Store E-commerce Frontend:** Dynamic online storefront focused on user experience optimization. Developed an intelligent, dynamic product filtering system utilizing custom JavaScript libraries and styled interactive user interfaces with CSS3 and Bootstrap.
-- **Educational Administration Dashboard:** Comprehensive management panel for academic institutions. Engineered a fully responsive administration dashboard for managing student and teacher records, dynamic course scheduling, and interactive data visualization components using HTML5, CSS3, JavaScript, and Bootstrap.
+* **AWS Real Estate Platform:** Responsive property management app featuring structured layout components, SCSS styling, and advanced search filters via Bootstrap.
+* **Shopify Store E-commerce Frontend:** Dynamic storefront with intelligent product filtering powered by custom JavaScript and styled with CSS3 and Bootstrap.
+* **Educational Administration Dashboard:** Comprehensive management panel for student/teacher records and course scheduling using HTML5, CSS3, and JavaScript.
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🛠️ Skills
 
 ### Programming Languages & Frameworks
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -54,5 +41,5 @@ Highly motivated 4th-year Software Engineering student ranked 1st in class with 
 
 ---
 
-## 📊 GitHub Stats
-![Jamila's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jamila-abo-3esha&show_icons=true&theme=radical)
+## 📬 Let's Connect
+📍 Syria | 📧 jamilaaboaesha@gmail.com | 🔗 [LinkedIn](https://linkedin.com/in/jamila-abo-aesha)
