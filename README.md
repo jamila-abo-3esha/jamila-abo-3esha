@@ -3,7 +3,7 @@
 ### 👩‍💻 Software Engineering Student | Frontend Developer
 
 🚀 **About Me:** 
-Software Engineering student at Al-Wataniya Private University (WPU). Passionate about building scalable, user-centric web applications using modern frontend tech, backed by strong algorithmic skills from the **SCPC** collegiate programming contest.
+4th-year Software Engineering student at National Private University (WPU), ranked **1st in class** with a **3.73 GPA (95.2%)**. Passionate about building scalable, user-centric web applications using modern frontend tech, backed by strong algorithmic skills from the **SCPC** collegiate programming contest.
 
 ---
 
@@ -11,6 +11,12 @@ Software Engineering student at Al-Wataniya Private University (WPU). Passionate
 * **B.Sc. in Informatics & Software Engineering** | WPU *(Jan 2023 – Jan 2028)*
   * 🥇 Ranked 1st in cohort (GPA: 3.73 / 95.2%).
   * 🏆 Competed in the Syrian Collegiate Programming Contest (SCPC).
+
+---
+
+## 💼 Experience
+* **Graphic Designer** | TechTac Software Company *(Jan 2023 – Jan 2024)*
+  * Crafted intuitive digital assets and collaborated with cross-functional teams to boost user engagement and brand alignment.
 
 ---
 
@@ -38,6 +44,24 @@ Software Engineering student at Al-Wataniya Private University (WPU). Passionate
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Agile](https://img.shields.io/badge/agile-%2300599C.svg?style=for-the-badge&logo=agile&logoColor=white)
+
+---
+
+## 📊 Dynamic GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jamila-abo-3esha&show_icons=true&theme=vue&hide_border=false&include_all_commits=true&count_private=true" alt="Jamila's Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jamila-abo-3esha&theme=vue" alt="Jamila's Streak" />
+</p>
+
+---
+
+## 👁️ Profile Visitors
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jamila-abo-3esha&color=007ec6&style=flat-square&label=PROFILE+VIEWS" alt="Visitor Count" />
+</p>
 
 ---
 
