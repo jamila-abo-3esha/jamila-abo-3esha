@@ -1,4 +1,6 @@
-# Hi there, I'm Jamila Abo Aesha 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3500&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&height=55&lines=Hi+there%2C+I'm+Jamila+Abo+Aesha+%F0%9F%91%8B;Software+Engineering+Student;Frontend+Developer;Web+Security+%26+Pentesting" alt="Typing SVG" />
+</p>
 
 ## 🎓 Education
 * **B.Sc. in Informatics & Software Engineering** | WPU *(Jan 2023 – Jan 2028)*
