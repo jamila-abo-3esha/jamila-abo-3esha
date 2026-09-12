@@ -35,7 +35,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jamila-abo-3esha&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="Jamila's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jamila-abo-3esha&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true" alt="Jamila's Stats" />
 </p>
 
 <p align="center">
